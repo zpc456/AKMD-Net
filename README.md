@@ -17,6 +17,7 @@ Prepare for Dataset
 ```
 cd models/data/
 jupyter notebook --dataset_processing.ipynb
+lynx test_three_dataset.html
 ```
 
 Networks
