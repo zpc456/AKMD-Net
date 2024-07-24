@@ -12,8 +12,11 @@ Getting Started
   
 Prepare for Dataset
 -----
+'''
 cd models/data/
+
 jupyter notebook --dataset_processing.ipynb
+'''
 
 Networks
 -----
