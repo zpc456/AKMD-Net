@@ -1,6 +1,7 @@
 AKMD-Net
 =====
 Codes for AAAI 2025 submitted paper, "AKMD-Net: A Uniform Network for Real-World RS Image Reconstruction".
+![image](https://github.com/user-attachments/assets/c81d94ba-ee79-4567-b5ec-9e0c996d63fe)
 
 Getting Started
 ----
