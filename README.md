@@ -5,6 +5,7 @@ Codes for AAAI 2025 submitted paper, "AKMD-Net: A Uniform Network for Real-World
 Getting Started
 ----
 **Requirements:**
-* pytorch
-* python
-* basicsr
+* PyTorch >= 1.7
+* Python >= 3.7
+* NVIDIA GPU + CUDA
+* Linux
