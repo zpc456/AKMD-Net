@@ -9,3 +9,7 @@ Getting Started
 * Python >= 3.7
 * NVIDIA GPU + CUDA
 * Linux
+  
+Prepare for Dataset
+-----
+
