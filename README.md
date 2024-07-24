@@ -12,4 +12,20 @@ Getting Started
   
 Prepare for Dataset
 -----
+cd models/data/
+jupyter notebook --dataset_processing.ipynb
+
+Networks
+-----
+python models/networkd/AKMDNet_arch.py
+
+To Train
+-----
+cd models
+python train.py
+
+To Test
+-----
+cd models
+python test.py
 
