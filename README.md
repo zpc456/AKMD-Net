@@ -1,3 +1,3 @@
-Paper "Joint RS Image Deblurring and Super-Resolution with Adjustable-Kernel and Multi-Domain Attention"
+AKMD-Net: A Uniform Network for Real-World RS Image Reconstruction
 =====
-This project will be further complemented. 
+Codes for AAAI 2025 submitted paper, "AKMD-Net: A Uniform Network for Real-World RS Image Reconstruction".
