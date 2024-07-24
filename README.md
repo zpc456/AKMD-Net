@@ -20,7 +20,7 @@ jupyter notebook --dataset_processing.ipynb
 Networks
 -----
 ```
-python models/networkd/AKMDNet_arch.py
+python models/networks/AKMD_arch4x.py
 ```
 
 To Train
