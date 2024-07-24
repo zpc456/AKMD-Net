@@ -31,6 +31,8 @@ To Train
 ```
 cd models
 python train.py
+![image](https://github.com/user-attachments/assets/b0924606-56dc-4a0c-a305-2362e4a79a84)
+
 ```
 
 To Test
