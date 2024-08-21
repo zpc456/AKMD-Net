@@ -1,6 +1,7 @@
 AKMD-Net
 =====
-Codes for AAAI 2025 submitted paper, "AKMD-Net: A Uniform Network for Real-World RS Image Reconstruction".
+Codes for paper, "Jointly RS Image Deblurring and Super-Resolution
+with Adjustable-Kernel and Multi-Domain Attention".
 
 ![image](https://github.com/user-attachments/assets/c81d94ba-ee79-4567-b5ec-9e0c996d63fe)
 
