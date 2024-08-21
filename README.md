@@ -3,7 +3,8 @@ AKMD-Net
 Codes for paper, "Jointly RS Image Deblurring and Super-Resolution
 with Adjustable-Kernel and Multi-Domain Attention".
 
-![image](https://github.com/user-attachments/assets/c81d94ba-ee79-4567-b5ec-9e0c996d63fe)
+![image](https://github.com/user-attachments/assets/26b24658-94b5-4769-baf5-de35e978f792)
+
 
 Getting Started
 ----
