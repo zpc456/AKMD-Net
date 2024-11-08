@@ -32,7 +32,7 @@ To Train
 -----
 ```
 cd models
-python train.py
+python models/train.py -opt configs/train_AKMFNet_RSSCN7x2.yml
 ```
 ![image](https://github.com/user-attachments/assets/7bf4c420-8633-41ed-bed5-934e301b14ac)
 
@@ -40,6 +40,6 @@ To Test
 -----
 ```
 cd models
-python test.py
+python models/test.py -opt configs/test_AKMFNet_RSSCN7x2.yml
 ```
 
