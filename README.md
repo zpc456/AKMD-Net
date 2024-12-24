@@ -42,8 +42,9 @@ To Test
 cd models
 python models/test.py -opt configs/test_AKMFNet_RSSCN7x2.yml
 ```
-If you find our work and code helpful, please kindly cite the corresponding paper:
+Citation
 -----
+If you find our work and code helpful, please kindly cite the corresponding paper:
 ```
 @ARTICLE{10793429,
   author={Zhang, Yan and Zheng, Pengcheng and Zeng, Chengxiao and Xiao, Bin and Li, Zhenghao and Gao, Xinbo},
