@@ -49,12 +49,12 @@ If you find our work and code helpful, please kindly cite the corresponding pape
 @ARTICLE{10793429,
   author={Zhang, Yan and Zheng, Pengcheng and Zeng, Chengxiao and Xiao, Bin and Li, Zhenghao and Gao, Xinbo},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  title={Jointly RS Image Deblurring and Super-Resolution with Adjustable-Kernel and Multi-Domain Attention}, 
-  year={2024},
-  volume={},
+  title={Jointly RS Image Deblurring and Super-Resolution With Adjustable-Kernel and Multi-Domain Attention}, 
+  year={2025},
+  volume={63},
   number={},
-  pages={1-1},
-  keywords={Superresolution;Image restoration;Kernel;Transformers;Feature extraction;Noise;Image reconstruction;Adaptation models;Remote sensing;Image quality;Remote-sensing images;image deblurring;super-resolution;receptive fields;Wiener filter},
+  pages={1-16},
+  keywords={Superresolution;Image restoration;Kernel;Transformers;Feature extraction;Noise;Image reconstruction;Adaptation models;Remote sensing;Image quality;Image deblurring;receptive fields;remote sensing images;super-resolution (SR);Wiener filter},
   doi={10.1109/TGRS.2024.3515636}}
 ```
 
